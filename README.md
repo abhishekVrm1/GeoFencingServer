@@ -16,7 +16,7 @@ Follow these steps to get the project up and running:
 
 1. Clone the repository to your local machine:
 
-	git clone <repository-url>
+	git clone https://github.com/abhishekVrm1/GeoFencingServer.git
 
 ## Configuration
 
